@@ -1,3 +1,3 @@
 # SalonBeaut
 Website for a beauty salon
-PHP, HTML, CSS, SQL
+# PHP, HTML, CSS, SQL
